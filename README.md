@@ -1,4 +1,4 @@
-<h3 align="center">A passionate fullstack developer from Brazil  🧑🏻‍💻</h3>
+<h3 align="center">developer‍ from Brazil💻</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=MauricioYuji-Code alt=MauricioYuji-Code/> </p>
 
 <p align="center"><img align="center" src="https://media.giphy.com/media/l2YWzlAxoXQcwfeKs/giphy.gif" width="550" height="300"/></p>
