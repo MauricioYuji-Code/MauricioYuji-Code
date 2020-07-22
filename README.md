@@ -10,7 +10,10 @@
 <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="60" height="60"/> 
 <img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="60" height="60"/>
 <img src=https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg alt=android width="60" height="60"/>
-<img src=https://konpa.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original-wordmark.svg alt=bitbucket width="60" height="60"/> 
+<img src=https://konpa.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg alt=git width="60" height="60"/>  
+<img src=https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg alt=linux width="60" height="60"/>
+<img src=https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg alt=php width="60" height="60"/>
+<img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg alt=pyhton width="60" height="60"/>
 <img src=https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="60" height="60"/></p><p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=MauricioYuji-Code&show_icons=true alt=MauricioYuji-Code /> </p>
 
