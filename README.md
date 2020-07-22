@@ -11,6 +11,7 @@
 <img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="60" height="60"/> 
 <img src=https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="60" height="60"/></p><p align="center">
 <img src=https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg alt=android width="60" height="60"/></p><p align="center">
+<img src=https://konpa.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original-wordmark.svg alt=bitbucket width="60" height="60"/> 
 <img src=https://github-readme-stats.vercel.app/api?username=MauricioYuji-Code&show_icons=true alt=MauricioYuji-Code /> </p>
 
 <p align="center">
