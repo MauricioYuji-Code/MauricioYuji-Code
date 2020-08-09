@@ -13,7 +13,6 @@
 <img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg alt=git width="60" height="60"/>  
 <img src=https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg alt=linux width="60" height="60"/>
 <img src=https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg alt=php width="60" height="60"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=pyhton width="60" height="60"/>
 <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="60" height="60"/></p><p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=MauricioYuji-Code&show_icons=true alt=MauricioYuji-Code /> </p>
 
